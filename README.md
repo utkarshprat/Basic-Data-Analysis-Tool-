@@ -60,9 +60,9 @@ This README provides a clear understanding of how to run and use the tool while 
 
 
     Sample Images-
+![mean (2)](https://github.com/user-attachments/assets/b0f75404-0b60-4266-844a-ca0c9966cfbd)
+![mean (3)](https://github.com/user-attachments/assets/4fa8323b-57af-4e11-a6b4-be4ba9664d30)
 ![mean (4)](https://github.com/user-attachments/assets/dc018d06-4bc6-4fc2-94d9-31c3d7ab2024)
 ![mean (5)](https://github.com/user-attachments/assets/a76ef187-2deb-412c-bc6e-928f40260d93)
 ![mean](https://github.com/user-attachments/assets/e2ec8bd7-2446-4257-8aac-dc08a1a389a3)
-![mean (2)](https://github.com/user-attachments/assets/b0f75404-0b60-4266-844a-ca0c9966cfbd)
-![mean (3)](https://github.com/user-attachments/assets/4fa8323b-57af-4e11-a6b4-be4ba9664d30)
 
