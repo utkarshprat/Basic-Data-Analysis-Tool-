@@ -56,6 +56,8 @@
     •   Error: File not found: Make sure the file path is correct and the file exists.
     •   Error while generating histogram: Ensure that the selected CSV file contains numeric data for plotting
     
+This README is designed to help users easily understand how to set up and use the tool. 
+
 
     Sample Images-
     
