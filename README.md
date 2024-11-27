@@ -52,6 +52,12 @@ Example:-
         Mode: 210
     Additionally, histograms for Column A and Column B will appear showing the distribution of values in each column.
 
+    Sample Images-
+![Screenshot 2024-11-25 180603](https://github.com/user-attachments/assets/ca57c36f-429e-469a-8f40-19ccedfb3256)
+![Screenshot 2024-11-25 180620](https://github.com/user-attachments/assets/120ae371-92ef-4f1b-95ac-2a031253cb98)
+![Screenshot 2024-11-25 180643](https://github.com/user-attachments/assets/89179576-f249-4f69-8921-6ab6c4244a1d)
+
+
 Troubleshooting:-
     •   Error: File not found: Make sure the file path is correct and the file exists.
     •   Error while generating histogram: Ensure that the selected CSV file contains numeric data for plotting.
