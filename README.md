@@ -1,16 +1,16 @@
-Data Analysis and Visualization Tool:-
+    Data Analysis and Visualization Tool:-
     This project provides a simple and easy-to-use tool for performing basic data analysis and visualizations on CSV datasets. The tool allows users to:
 
     •   Load a CSV file.
     •   Calculate basic statistics such as Mean, Median, and Mode for numeric data.
     •   Visualize the data with Histograms for each numeric column.
 
-Features:-
+    Features:-
     •   Data Loading: Import CSV data easily using a graphical user interface (GUI).
     •   Basic Analysis: Calculate and display the mean, median, and mode for all numeric columns in the dataset.
     •   Data Visualization: Generate histograms to visually explore the distribution of the data.
 
-How to Use:-
+    How to Use:-
     Step 1: Install Dependencies-
         Before you begin, ensure you have the required libraries installed. You can install them using pip:
                      pip install pandas numpy matplotlib
@@ -25,21 +25,21 @@ How to Use:-
     •   The results will be displayed in the GUI.
     •   Histograms will be plotted for each numeric column, helping you visualize the distribution of data.
 
-Code Explanation:-
-1.  meannn.py
+    Code Explanation:-
+    1.  meannn.py
     This file contains the core functions for loading the CSV, performing basic statistical analysis, and generating visualizations.
 
     •   load(file): Loads the CSV file into a pandas DataFrame.
     •   analysis(data): Calculates the mean, median, and mode for numeric columns in the data and formats the results into a string.
     •   visualize(data): Generates histograms for each numeric column in the data.
-2. meannn_gui.py
+    2. meannn_gui.py
     This file contains the graphical user interface (GUI) built using tkinter.
 
     •   open_file(): Opens a file dialog for the user to select a CSV file, loads the data, and triggers the analysis and visualization functions.
     •   main_gui(): Sets up the main window, labels, and button in the GUI.
     •   Result Label: Displays the calculated mean, median, and mode for the dataset.
     
-Example:-
+    Example:-
     After selecting a dataset, you might see the following results displayed in the GUI:
     Column A:
         Mean: 52.45
@@ -52,14 +52,13 @@ Example:-
         Mode: 210
     Additionally, histograms for Column A and Column B will appear showing the distribution of values in each column.
 
-Troubleshooting:-
+    Troubleshooting:-
     •   Error: File not found: Make sure the file path is correct and the file exists.
-    •   Error while generating histogram: Ensure that the selected CSV file contains numeric data for plotting.
-
-This README provides a clear understanding of how to run and use the tool while explaining the core functionality in simple terms. Let me know if you'd like to add more details or make any changes!
-
+    •   Error while generating histogram: Ensure that the selected CSV file contains numeric data for plotting
+    
 
     Sample Images-
+    
 ![mean (2)](https://github.com/user-attachments/assets/b0f75404-0b60-4266-844a-ca0c9966cfbd)
 ![mean (3)](https://github.com/user-attachments/assets/4fa8323b-57af-4e11-a6b4-be4ba9664d30)
 ![mean (4)](https://github.com/user-attachments/assets/dc018d06-4bc6-4fc2-94d9-31c3d7ab2024)
